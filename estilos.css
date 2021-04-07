@@ -28,6 +28,8 @@ body {
   background-color: white;
   width: 326px;
   border-radius: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   overflow: hidden;
   box-shadow: 2px 2px 4px rgba(0, 2, 5, 0.308);
 }
@@ -93,5 +95,4 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }/*# sourceMappingURL=estilos.css.map */
